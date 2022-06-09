@@ -30,7 +30,7 @@ global.ownernomerr = "+6282122375139" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://yt3.ggpht.com/ytc/AKedOLQcA4DeMf-MEN0z4AenjEshsL2wHFsQVcKYIW3B=s176-c-k-c0x00ffffff-no-rj" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282122375139","6282122375139","6282122375139"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6282122375139","6283111152208","6281370040608"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© OJI Senpai Dakara' //sticker wm ubah
 global.author = '*Created OJI Senpai*' //sticker wm ganti nama kalian
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
