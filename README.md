@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="YUU SENPAI MULTI BOT" src="https://img.shields.io/badge/YUU SENPAI BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="OJI SENPAI MULTI BOT" src="https://img.shields.io/badge/YUU SENPAI BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -67,21 +67,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "*Yuu | Bot*" //namabot kalian
-global.ownername= "Yuu?" //nama kalian
-global.myweb ="https://instagram.com/yudis.tra1" //bebas asal jan hapus
+global.botname = "*OJII | Bot*" //namabot kalian
+global.ownername= "OJI WOY" //nama kalian
+global.myweb ="https://instagram.com/alah.tabuak" //bebas asal jan hapus
 global.youtube = "youtube.com" //bebas asal jan hapus
-global.github = "https://github.com/galogandang1" //bebas
-global.email = "tzyudistira@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.ownernomer = "6281370040608" // nomor wa kalian
-global.ownernomerr = "+6283111152208" //nmr wa kalian
+global.github = "https://github.com/Okaiyuu" //bebas
+global.email = "telahdigunakan889@gmail.com@gmail.com" //bebas
+global.region = "Isekai" //bebas
+global.ownernomer = "6282122375139" // nomor wa kalian
+global.ownernomerr = "+6282122375139" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285921165857","6285921165857","6285657452524"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Yuu Senpai Multi Device' //sticker wm ubah
-global.author = '*Created Yuu Senpai*' //sticker wm ganti nama kalian
+global.owner = ["6282122375139","6285921165857","6285657452524"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© OJI Senpai Multi Device' //sticker wm ubah
+global.author = '*Created By OJI*' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 ```
 
